@@ -1,4 +1,3 @@
-```markdown
 # Job Costing Dashboard
 
 A comprehensive dashboard application designed to analyze project costs by tracking materials, labor, and overhead expenses. This tool provides actionable insights into profitability, helping businesses make informed decisions and improve cost management.
